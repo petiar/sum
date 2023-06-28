@@ -1,0 +1,13 @@
+uuid: 5649b388-8af0-4d4e-8d41-1c6229495471
+langcode: sk
+status: true
+dependencies:
+  module:
+    - commerce_product
+_core:
+  default_config_hash: 83abjxFWTlkso65OfwvUzv_VvAc9iIswF2kW_MGZmY8
+id: commerce_publish_product
+label: 'Zverejniť produkt'
+type: commerce_product
+plugin: commerce_publish_product
+configuration: {  }

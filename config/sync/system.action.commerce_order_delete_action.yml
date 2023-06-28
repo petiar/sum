@@ -1,0 +1,16 @@
+uuid: 64b1a215-2e90-4549-90a1-0f1885c34a81
+langcode: sk
+status: true
+dependencies:
+  module:
+    - commerce_order
+  enforced:
+    module:
+      - commerce_order
+_core:
+  default_config_hash: Cj_fREZCx0NVDUfo3pDHFMUuCGTzoag_MUFspBxr3AQ
+id: commerce_order_delete_action
+label: 'Odstrániť objednávku'
+type: commerce_order
+plugin: 'entity:delete_action:commerce_order'
+configuration: {  }

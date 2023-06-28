@@ -1,0 +1,11 @@
+uuid: 9986f84b-30ff-4cf3-802a-ad68050fcf32
+langcode: sk
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.vydavatelstvo
+id: taxonomy_term.vydavatelstvo
+target_entity_type_id: taxonomy_term
+target_bundle: vydavatelstvo
+default_langcode: site_default
+language_alterable: false

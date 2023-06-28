@@ -1,0 +1,11 @@
+uuid: 191c3993-1a42-4cb3-b1cc-8cb3d3079f3a
+langcode: sk
+status: true
+dependencies:
+  config:
+    - commerce_product.commerce_product_type.kniha
+id: commerce_product.kniha
+target_entity_type_id: commerce_product
+target_bundle: kniha
+default_langcode: site_default
+language_alterable: false

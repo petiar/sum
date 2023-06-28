@@ -1,0 +1,29 @@
+uuid: e62cb19d-8cc5-4ddf-a808-0e492587b8dc
+langcode: sk
+status: true
+dependencies:
+  config:
+    - commerce_product.commerce_product_type.kniha
+    - field.storage.commerce_product.field_autor
+    - taxonomy.vocabulary.autor
+id: commerce_product.kniha.field_autor
+field_name: field_autor
+entity_type: commerce_product
+bundle: kniha
+label: Autor
+description: 'Tu zadajte autora, resp. autorov knihy. Ak už autora máme v databáze, stačí začať písať jeho meno a systém ho sám doplní.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      autor: autor
+    sort:
+      field: name
+      direction: asc
+    auto_create: true
+    auto_create_bundle: ''
+field_type: entity_reference

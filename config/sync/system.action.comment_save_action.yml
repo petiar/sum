@@ -1,0 +1,13 @@
+uuid: 9041a642-7e95-48a3-8726-6432859e159e
+langcode: sk
+status: true
+dependencies:
+  module:
+    - comment
+_core:
+  default_config_hash: lfyE_snmvfg_EQ3VDyhUtGAXgmqtEiqa46I3bTMg8DU
+id: comment_save_action
+label: 'Uložiť komentár'
+type: comment
+plugin: 'entity:save_action:comment'
+configuration: {  }

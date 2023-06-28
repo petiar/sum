@@ -1,0 +1,12 @@
+uuid: 53e2ba98-f9f4-46da-8ff2-ac8357b7a572
+langcode: sk
+status: true
+dependencies:
+  module:
+    - commerce_order
+_core:
+  default_config_hash: zGcQPC5MWgNSsQxarSWsXNIVpjb_vDAdcDLPupYmxQ8
+id: commerce_order.user
+label: Používateľ
+targetEntityType: commerce_order
+cache: true

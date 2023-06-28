@@ -1,0 +1,19 @@
+uuid: 386c78f4-65b8-4bf3-a194-d4f16fff7f10
+langcode: sk
+status: true
+dependencies:
+  module:
+    - commerce_product
+    - text
+id: commerce_product.field_popis
+field_name: field_popis
+entity_type: commerce_product
+type: text_long
+settings: {  }
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

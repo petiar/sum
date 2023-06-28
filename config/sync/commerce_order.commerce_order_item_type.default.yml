@@ -1,0 +1,15 @@
+uuid: 26c2eec4-d489-4ace-a544-30af999f6897
+langcode: sk
+status: true
+dependencies:
+  enforced:
+    module:
+      - commerce_product
+_core:
+  default_config_hash: 6n6q97CDOCqHGs4Dun3BqVJE6e1o6TA-69qCwoUU-SY
+id: default
+label: Predvolené
+traits: {  }
+locked: false
+purchasableEntityType: commerce_product_variation
+orderType: default

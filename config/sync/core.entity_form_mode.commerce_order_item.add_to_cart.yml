@@ -1,0 +1,15 @@
+uuid: 6e370401-3309-40aa-b1ce-8c4700800127
+langcode: sk
+status: true
+dependencies:
+  module:
+    - commerce_order
+  enforced:
+    module:
+      - commerce_cart
+_core:
+  default_config_hash: BeqBf6Mm59Nebv4SsV0yvK5EspkCegPqvwnqwEBvEp0
+id: commerce_order_item.add_to_cart
+label: 'Vložiť do košíka'
+targetEntityType: commerce_order_item
+cache: true

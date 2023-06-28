@@ -1,0 +1,8 @@
+uuid: 09d9228e-6450-4920-95dc-008ae7d5c880
+langcode: sk
+status: true
+dependencies: {  }
+name: Autor
+vid: autor
+description: 'Toto je slovník pre kategorizáciu autorov kníh.'
+weight: 0

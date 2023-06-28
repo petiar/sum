@@ -1,0 +1,8 @@
+uuid: 7c9ca52e-1458-4e61-8a28-98a4486f79a2
+langcode: sk
+status: true
+dependencies: {  }
+name: Vydavateľstvo
+vid: vydavatelstvo
+description: 'Slovník pre vydavateľstvá.'
+weight: 0

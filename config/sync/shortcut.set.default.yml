@@ -1,0 +1,8 @@
+uuid: 9cc90959-a05a-4923-881a-f491523aef16
+langcode: sk
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: U5VlGjd_SfV0Qm_EfnaynOfc549cNscFAx48JfYoMRI
+id: default
+label: Predvolené

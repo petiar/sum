@@ -1,0 +1,18 @@
+uuid: 1db0a06f-de42-47ff-9fe5-1d483662f5ba
+langcode: sk
+status: true
+dependencies:
+  config:
+    - crop.type.stvorec
+  module:
+    - crop
+name: stvorec
+label: Štvorec
+effects:
+  7c6061d5-395c-4968-844d-8f7321ed861f:
+    uuid: 7c6061d5-395c-4968-844d-8f7321ed861f
+    id: crop_crop
+    weight: 1
+    data:
+      crop_type: stvorec
+      automatic_crop_provider: null

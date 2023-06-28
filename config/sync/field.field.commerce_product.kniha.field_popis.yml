@@ -1,0 +1,24 @@
+uuid: ab594630-6185-4af7-b790-67d569f11cca
+langcode: sk
+status: true
+dependencies:
+  config:
+    - commerce_product.commerce_product_type.kniha
+    - field.storage.commerce_product.field_popis
+    - filter.format.basic_html
+  module:
+    - text
+id: commerce_product.kniha.field_popis
+field_name: field_popis
+entity_type: commerce_product
+bundle: kniha
+label: Popis
+description: 'Toto je popis knihy.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  allowed_formats:
+    - basic_html
+field_type: text_long

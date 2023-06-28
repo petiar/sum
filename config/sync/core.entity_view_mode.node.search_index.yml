@@ -1,0 +1,12 @@
+uuid: 0db447a1-01b8-4743-a1f3-606c219c0aa0
+langcode: sk
+status: false
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: fVFfJv_GzBRE-wpRHbfD5a3VjnhbEOXG6lvRd3uaccY
+id: node.search_index
+label: 'Index vyhľadávania'
+targetEntityType: node
+cache: true

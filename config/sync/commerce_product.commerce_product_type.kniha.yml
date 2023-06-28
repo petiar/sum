@@ -1,0 +1,14 @@
+uuid: cc3dafd5-cde7-4703-ba88-b8ea551adba0
+langcode: sk
+status: true
+dependencies: {  }
+id: kniha
+label: Kniha
+traits: {  }
+locked: false
+description: 'Toto je typ produktu používaný pre knihy.'
+variationType: kniha
+variationTypes:
+  - kniha
+multipleVariations: true
+injectVariationFields: true

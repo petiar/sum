@@ -1,0 +1,16 @@
+uuid: e75b8bff-3049-4f22-9aae-9e028d7dda3f
+langcode: sk
+status: true
+dependencies:
+  module:
+    - profile
+  enforced:
+    module:
+      - profile
+_core:
+  default_config_hash: eoobeznDDPWSXzEXh6a3AT21rMluXtseCPjsguEgHKs
+id: profile_delete_action
+label: 'Odstrániť vybraný profil'
+type: profile
+plugin: 'entity:delete_action:profile'
+configuration: {  }

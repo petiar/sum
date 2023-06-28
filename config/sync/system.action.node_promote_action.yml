@@ -1,0 +1,13 @@
+uuid: 85a379d4-bf96-431f-a915-2984884beed3
+langcode: sk
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: N0RDBTqiK4dKoN4p4oW2j0SGWycdHyALUe9M-Ofp89U
+id: node_promote_action
+label: 'Propagovať obsah na hlavnej stránke'
+type: node
+plugin: node_promote_action
+configuration: {  }

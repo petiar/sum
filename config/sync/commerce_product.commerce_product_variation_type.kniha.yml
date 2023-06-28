@@ -1,0 +1,10 @@
+uuid: 3f667455-9875-4468-8385-7f2ba4bbfed3
+langcode: sk
+status: true
+dependencies: {  }
+id: kniha
+label: Kniha
+traits: {  }
+locked: false
+orderItemType: default
+generateTitle: null

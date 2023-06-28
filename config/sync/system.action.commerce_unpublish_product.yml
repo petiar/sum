@@ -1,0 +1,13 @@
+uuid: 8ad86419-4d57-47dc-a12c-c08d0b14186f
+langcode: sk
+status: true
+dependencies:
+  module:
+    - commerce_product
+_core:
+  default_config_hash: 6gfQWDjHFkJsE2C2ayhUL7x1jBGPgOhr3SGF15Kxy-w
+id: commerce_unpublish_product
+label: 'Skryť produkt'
+type: commerce_product
+plugin: commerce_unpublish_product
+configuration: {  }

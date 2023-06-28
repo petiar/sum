@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+langcode: sk
+uuid: 6bf29fb0-3d0a-4c98-9bc1-0da6e0a1bba9
+name: 'Šum Knihy'
+mail: admin@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /products
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: sk

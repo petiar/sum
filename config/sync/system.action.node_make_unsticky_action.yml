@@ -1,0 +1,13 @@
+uuid: b8d67aee-e513-46e5-b38a-8c5237989340
+langcode: sk
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: lDM9mvIGAu8Sw8rt-uCO4Sr7yX5VPrDPxYcawkbKd6k
+id: node_make_unsticky_action
+label: 'Zrušiť prilepenie obsahu'
+type: node
+plugin: node_make_unsticky_action
+configuration: {  }

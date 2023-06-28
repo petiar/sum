@@ -1,0 +1,16 @@
+uuid: d9884f35-43c9-4132-8af6-fda4f6792978
+langcode: sk
+status: true
+dependencies:
+  module:
+    - profile
+  enforced:
+    module:
+      - profile
+_core:
+  default_config_hash: jjClImKlBhvh__KZnX6YkW_Kc1yZvqXODbUHt30A8z4
+id: profile_publish_action
+label: 'Zverejniť vybraný profil'
+type: profile
+plugin: 'entity:publish_action:profile'
+configuration: {  }

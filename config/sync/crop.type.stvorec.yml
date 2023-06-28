@@ -1,0 +1,12 @@
+uuid: 18b4f7b2-7492-40ee-baf7-65b79077557c
+langcode: sk
+status: true
+dependencies: {  }
+label: Štvorec
+id: stvorec
+description: ''
+aspect_ratio: '1:1'
+soft_limit_width: null
+soft_limit_height: null
+hard_limit_width: null
+hard_limit_height: null

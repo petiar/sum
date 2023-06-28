@@ -1,0 +1,16 @@
+uuid: 374025ee-8fb8-4ec7-9b9d-954eff01bf96
+langcode: sk
+status: true
+dependencies:
+  module:
+    - profile
+  enforced:
+    module:
+      - profile
+_core:
+  default_config_hash: i6SUyw-h9LthgtmTiKGbqFIh-JXnBtXLG2NCV7CkI3M
+id: profile_unpublish_action
+label: 'Skryť vybraný profil'
+type: profile
+plugin: 'entity:unpublish_action:profile'
+configuration: {  }

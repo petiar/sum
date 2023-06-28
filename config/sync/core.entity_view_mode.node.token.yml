@@ -1,0 +1,10 @@
+uuid: db6dfaf7-891c-49a5-851e-02c1b0ca79b4
+langcode: sk
+status: true
+dependencies:
+  module:
+    - node
+id: node.token
+label: Token
+targetEntityType: node
+cache: true
